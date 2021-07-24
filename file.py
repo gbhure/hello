@@ -2,4 +2,4 @@ print('Python project started')
 x = 10
 y = 20
 res = x-y if x>y else y-x
-print(f'Python code final output results: {res}')
+print(f'final output is: {res}')
