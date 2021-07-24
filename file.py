@@ -3,4 +3,5 @@ print('new code added by A')
 x = 10
 y = 20
 res = x-y if x>y else y-x
-print(f'final output after operation is: {res}')
+z = 30
+print(f'final result after B changed the file: {res}')
